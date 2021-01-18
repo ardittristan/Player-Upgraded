@@ -1,0 +1,7 @@
+name: "pu"
+displayName: "[red]Player Upgraded\n"
+author: "[red]ardittristan"
+main: "player.PlayerUpgraded"
+"description": "\n[lightgray]Nothing yet",
+version: 1.0
+minGameVersion: 105
